@@ -484,13 +484,6 @@ We built a custom Gym environment that replays historical price data, applies th
 
 **Disclaimer:** This software is for educational and research purposes. Trading cryptocurrencies carries significant risk. The authors are not responsible for any financial losses incurred. Always test thoroughly before using real funds.
 
----
-
-## 📧 Contact & Support
-
-- **GitHub Issues:** [github.com/sentient-dca/sentient-dca-agent/issues](https://github.com/sentient-dca/sentient-dca-agent/issues)
-- **Telegram:** [t.me/sentient_dca](https://t.me/sentient_dca)
-- **Email:** team@sentientdca.io
 
 ---
 
