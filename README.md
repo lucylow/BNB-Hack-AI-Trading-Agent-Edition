@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Sentient DCA Agent
 
 **Adaptive AI‑powered Dollar‑Cost Averaging on BNB Chain**  
